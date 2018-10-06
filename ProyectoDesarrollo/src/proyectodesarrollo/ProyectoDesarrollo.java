@@ -15,7 +15,7 @@ public class ProyectoDesarrollo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola mundo dos");
+        System.out.println("Hola mundo dos prueba desde la web");
     }
     
 }
