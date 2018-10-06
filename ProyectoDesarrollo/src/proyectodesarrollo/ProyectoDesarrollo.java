@@ -7,7 +7,7 @@ package proyectodesarrollo;
 
 /**
  *
- * @author Moogh
+ * @author Salomón García Calero - 1667459
  */
 public class ProyectoDesarrollo {
 
