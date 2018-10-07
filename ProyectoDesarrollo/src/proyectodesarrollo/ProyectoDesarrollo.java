@@ -5,6 +5,8 @@
  */
 package proyectodesarrollo;
 
+import Vistas.VentanaPrincipal;
+
 /**
  *
  * @author Salomón García Calero - 1667459
@@ -17,6 +19,9 @@ public class ProyectoDesarrollo {
     public static void main(String[] args) {
         System.out.println("Hola mundo dos prueba desde la web");
         System.out.println("A mi me gusta el tangananica");
+        VentanaPrincipal a = new VentanaPrincipal();
+        a.setVisible(true);
+        
     }
     
 }
