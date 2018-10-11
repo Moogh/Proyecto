@@ -17,8 +17,6 @@ public class ProyectoDesarrollo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola mundo dos prueba desde la web");
-        System.out.println("A mi me gusta el tangananica");
         VentanaPrincipal a = new VentanaPrincipal();
         a.setVisible(true);
         
